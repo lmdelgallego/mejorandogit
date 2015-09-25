@@ -1,0 +1,41 @@
+commit 6ab82934db91ad721a32a259d815c88446d5ed0f
+Author: Luis Miguel <luis.delgallego@ideaware.co>
+Date:   Mon Sep 21 13:39:01 2015 -0500
+
+    Actualizacion de perfiles
+
+commit b8487897a6e3f84876ab668f53278a2ff6af27da
+Author: Luis Miguel <luis.delgallego@ideaware.co>
+Date:   Mon Sep 21 11:51:17 2015 -0500
+
+    Agregue un portafolio - Web personal -
+
+commit f515a7ac0fab4f602164346ecc1bad24b9fe1d8b
+Author: Luis Miguel <luis.delgallego@ideaware.co>
+Date:   Mon Sep 21 11:49:56 2015 -0500
+
+    Agregue una descripcion
+
+commit 7ad3d91d08898c715b0c51fc55fe9b0edd68dc6c
+Author: Luis Miguel <luis.delgallego@ideaware.co>
+Date:   Mon Sep 21 11:48:37 2015 -0500
+
+    Redes sociales
+
+commit caa327659bcc0cf2bc7a7f16cc7844ebf141b08d
+Author: Luis Miguel <luis.delgallego@ideaware.co>
+Date:   Mon Sep 21 11:46:57 2015 -0500
+
+    Perfil web escrito
+
+commit 5fd59be2a7352b3aff4fd8774959bd49cadc254f
+Author: Luis Miguel <luis.delgallego@ideaware.co>
+Date:   Mon Sep 21 11:44:38 2015 -0500
+
+    Subi foto de perfil y mi nombre
+
+commit 2dec4b34dd44f3c9a88e510c9e0b26d1ca40b2f6
+Author: Luis Miguel <luis.delgallego@ideaware.co>
+Date:   Mon Sep 21 11:40:28 2015 -0500
+
+    Estos son los archivos base de mi protafolio
